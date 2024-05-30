@@ -1,6 +1,4 @@
 import streamlit as st
-from pydub import AudioSegment
-import streamlit.components.v1 as components
 
 # Function to play audio
 def play_audio(file_path):
